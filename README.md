@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multiplicador combinacional
 Este es un programa de línea de comandos que permite realizar la multiplicación binaria de dos factores de longitud que escoja el usuario. Los factores pueden ser ingresados en formato decimal, hexadecimal o binario. El programagenera un archivo PDF que muestra el proceso de la multiplicación binaria y el resultado final.
 
@@ -23,3 +24,6 @@ Cuyo contenido debe seguir el siguiente formato: `bits 6 a d21 b h10`. En una so
 
 - Python 3.x
 - LaTeX
+=======
+# Multiplicador_combinacional
+>>>>>>> d8b7536762ae9aa0b65f2231bd025a606722f819
