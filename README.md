@@ -21,8 +21,5 @@ Cuyo contenido debe seguir el siguiente formato: `bits 6 a d21 b h10`. En una so
 
 ## Requerimientos
 
-- Python 3.x
+- Python 3.10.10
 - LaTeX
-=======
-# Multiplicador_combinacional
-
